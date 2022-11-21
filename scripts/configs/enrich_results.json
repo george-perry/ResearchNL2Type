@@ -1,0 +1,10 @@
+[
+  {
+  "module":"enrich_results",
+  "config":{
+    "results_file":"/home/rabee/thesis/data/artifact/paper/results.csv",
+    "data_file":"/home/rabee/thesis/data/artifact/paper/raw_csv/test.csv",
+    "output_file":"/home/rabee/thesis/data/artifact/paper/results_enriched.csv"
+    }
+  }
+]
